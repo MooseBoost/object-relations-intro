@@ -122,4 +122,4 @@ end
 And that's it! Once you have your tests passing, un-comment out the second set of lines at the bottom of the `person.rb` file and run the program with `ruby lib/person.rb`. You'll see that association magic happen.
 
 
-<a href='https://learn.co/lessons/object-relations-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/object-relations-intro' title='Code Along: Object Relations: An Introduction'>Code Along: Object Relations: An Introduction</a> on Learn.co and start learning to code for free.</p>
